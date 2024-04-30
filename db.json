@@ -1,0 +1,31 @@
+{"peliculas":
+[
+    {"id":1,
+     "name":"La Leyenda de Shen Long",
+     "author":"Akira Toriyama",
+     "year":1986
+},
+{
+    "id":2,
+    "name":"La batalla de los tres Saiyajin",
+    "author":"Akira Toriyama",
+    "year":1992
+},
+{
+    "id":3,
+    "name":"Dragon Ball Z II: Broly, el legendario Super Saiyajin",
+    "author":"Akira Toriyama",
+    "year":2015
+},
+{
+    "id":4,
+    "nombre":"Dragón Ball Z: El ataque del dragón",
+    "author":"Akira Toriyama",
+    "year":1995
+},
+{
+    "id":5,
+    "nombre":"La resurrección de Freezer",
+    "author":"Akira Toriyama",
+    "year":2015
+}]}
